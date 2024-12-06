@@ -40,7 +40,7 @@ cp local.env .env
 
 Edit the `.env` file and fill in the required variables:
 
-```json
+```yaml
 GMAIL_USER=email_user
 GMAIL_PASSWORD=email_password
 EMAIL_HOST=email_host
